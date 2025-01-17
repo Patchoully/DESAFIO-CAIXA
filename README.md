@@ -1,5 +1,7 @@
-# DESAFIO-CAIXA
-Impacto Social e Desenvolvimento Profissional
+# DESAFIO CAIXA - Criando Impacto Social Com IA
+
+
+Título do ebook: Impacto Social e Desenvolvimento Profissional
 
 
 Projeto de ebook Gerado por I.A.s
@@ -27,7 +29,7 @@ Imagem gerada no bing
 
 Vídeo gerado pela d-id
 
-PowerPoint para gerar o pdf do ebook
+Pdf do ebook gerado no PowerPoint
 
 
 
