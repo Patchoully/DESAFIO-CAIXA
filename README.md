@@ -27,7 +27,7 @@ Imagem gerada no bing
 
 Vídeo gerado pela d-id
 
-PowerPoint aara gerar o pdf do ebook
+PowerPoint para gerar o pdf do ebook
 
 
 
